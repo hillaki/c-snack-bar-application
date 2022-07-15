@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1657872322 source:c:\users\user\desktop\c programs\bsar\bar.c
+	<stdio.h>
+	<stdlib.h>
+
